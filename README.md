@@ -1,6 +1,9 @@
 # ACommSet: Underwater Acoustic Communications Dataset Collection and Evaluation in at-Sea Field Experiments
 Dataset proposed in "ACommSet: Underwater Acoustic Communications Dataset Collection and Evaluation in at-Sea Field Experiments", in The 18th International Conference on Underwater Networks & Systems (WUWNet' 24), pp. 1-8, October 2024.
 
+## Link to the paper
+The paper has been published online, and can be accessed at ResearchGate](https://www.researchgate.net/publication/385458167_ACommSet_Underwater_Acoustic_Communications_Dataset_Collection_and_Evaluation_in_at-Sea_Field_Experiments)
+
 ## How to access the Dataset?
 - Download and sign the [Dataset Release Agreement](ACommSet_Agreement.pdf)
 - Request the authors using the following [Google Form](https://forms.gle/Hid2rTRBLTkEnCuk7)
